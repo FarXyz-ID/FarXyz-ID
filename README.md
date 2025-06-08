@@ -17,7 +17,7 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@fardannfm)   [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/varshade)   [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@cale_henituse_9)   [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@FarXyz-ID)   [![NPM](https://img.shields.io/badge/NPM-%23FF0000.svg?logo=NPM&logoColor=white)](https://www.npmjs.com/package/@varshade/baileys)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@fardannfm)   [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/varshade)   [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@cale_henituse_9)   [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@FarXyz-ID)   [![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?logo=npm&logoColor=white)](https://www.npmjs.com/package/@varshade/baileys)
 
 
 # 💻 Tech Stack:
@@ -38,9 +38,13 @@
 
 ## ```Connect With Me```
 <p align="center">
-<a href="https://wa.me/6283151785747"><img src="https://img.shields.io/badge/Contact FarXyz-ID-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/6283151785747"><img src="https://img.shields.io/badge/Contact FarXyzID-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<p align="center">
+<a href="https://wa.me/6282120627665?text=.tes"><img src="https://img.shields.io/badge/Contact WhatsApp Bot-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<p align="center">
 <a href="https://chat.whatsapp.com/KEcrlL57xjrGGRs8ii01zd"><img src="https://img.shields.io/badge/Join Official GC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://youtube.com/@farxyz-id?si=AX0Y__rfSkkf5j2R"><img src="https://img.shields.io/badge/Subscribe Xeon-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/@FarXyz-ID" /><br>
+<p align="center">
+<a href="https://youtube.com/@farxyz-id?si=AX0Y__rfSkkf5j2R"><img src="https://img.shields.io/badge/Subscribe FarXyz-ID-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/@FarXyz-ID" /><br>
 </p>
 
 ## ```Donate Me```
