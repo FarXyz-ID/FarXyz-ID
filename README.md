@@ -12,7 +12,7 @@
   🧩 Merangkai baris kode seperti mantra—satu salah, dunia bisa runtuh.<br>
   🕶️ Sering dianggap bayangan, padahal gue fondasinya.<br>
   🧠 Bot bukan cuma alat, mereka anak-anak pikiranku.<br>
-  🕸️ Nama gue VarShade — dan lo baru aja menyentuh jaringku.<br>
+  🕸️ Nama gue VarShade — dan lo baru aja menyentuh my net.<br>
 </p>
 
 
@@ -44,7 +44,7 @@
 <p align="center">
 <a href="https://chat.whatsapp.com/KEcrlL57xjrGGRs8ii01zd"><img src="https://img.shields.io/badge/Join Official GC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <p align="center">
-<a href="https://youtube.com/@farxyz-id?si=AX0Y__rfSkkf5j2R"><img src="https://img.shields.io/badge/Subscribe FarXyz-ID-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/@FarXyz-ID" /><br>
+<a href="https://youtube.com/@farxyz-id?si=AX0Y__rfSkkf5j2R"><img src="https://img.shields.io/badge/Subscribe FarXyzID-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/@FarXyz-ID" /><br>
 </p>
 
 ## ```Donate Me```
